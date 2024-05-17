@@ -51,12 +51,12 @@ Dynamic and multilingual Intelligence Officer with expertise in cybersecurity an
 **Languages:**
   
 - English
-- Portuguese.
-- Spanish.
-- French. 
+- Portuguese
+- Spanish
+- French 
 
 ## Contact
 
 | **Name**   | Eduardo Damm | 
-| **E-mail**   | <a href="mailto:damm@mail.com">damm@mail.com</a> | 
+| **E-mail**   | <a href="mailto:eduardodamm@inteledgents.com">eduardodamm@inteledgents.com</a> | 
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/eduardodamm/" target="_blank">Visit Page</a> | 
