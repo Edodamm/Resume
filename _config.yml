@@ -2,8 +2,6 @@ title: Eduardo Damm  # Add a space after the period
 
 logo: ED.png  # Use a relative path to logo image 
 
-description: Intelligence Officer. # Fix hyphenation 
-
 show_downloads: true # Fix spelling
 
 theme: jekyll-theme-minimal 
