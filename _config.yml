@@ -9,8 +9,6 @@ show_downloads: true # Fix spelling
 theme: jekyll-theme-minimal 
 
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
-
-google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
+  - jekyll-seo-tag # Add SEO plugin 
 
 email: damm@mail.com # Allow visitors to contact you
