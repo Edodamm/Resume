@@ -12,9 +12,12 @@ Dynamic and multilingual Intelligence Officer with expertise in cybersecurity an
 
   
 ## Education
-- **M.A.**, Global Security | <a href="https://www.kcl.ac.uk/" target="_blank">King's College London</a> (_MAR 2024 - In progress_)		  		
-- **B.A.**, International Relations	| <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a> (_FEB 2012 - DEC 2015_)	 			        		
-- **B.Sc.**, Cyber Defense | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a> (_FEB 2020 - JUL 2023_)
+- **M.A.**, Global Security |
+- <a href="https://www.kcl.ac.uk/" target="_blank">King's College London</a> (_MAR 2024 - In progress_)		  		
+- **B.A.**, International Relations	|
+- <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a> (_FEB 2012 - DEC 2015_)	 			        		
+- **B.Sc.**, Cyber Defense |
+- <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a> (_FEB 2020 - JUL 2023_)
 
 ## Work experience 
 **Intelligence Manager @ <a href="https://global-weekly.com" target="_blank">Global Weekly</a> (_May 2024 - Present_)**
