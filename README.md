@@ -17,6 +17,14 @@ Dynamic and multilingual Intelligence Officer with expertise in cybersecurity an
 - **B.Sc.**, Cyber Defense | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a> (_FEB 2020 - JUL 2023_)
 
 ## Work experience 
+**Intelligence Manager @ <a href="https://global-weekly.com" target="_blank">Global Weekly</a> (_May 2024 - Present_)**
+- Provide intelligence support for ongoing analysis, reports, and investigations.
+- Establish standards for reporting, risk analysis, and intelligence frameworks.
+
+**Editorial Contributor @ <a href="https://www.latinnews.com/" target="_blank">Latin News</a> (_May 2024 - Present_)**
+- Contribute to daily monitoring and reporting on political, economic, and security developments in Latin America.
+- Produce comprehensive reports and analysis to support editorial insights. 
+
 **Intelligence Consultant @ <a href="https://londonpolitica.com" target="_blank">London Politica</a> (_Decembe 2023 - Present_)**
 - Crafted detailed predictive intelligence reports for strategic decision-making, utilizing diverse data sources.
 - Delivered targeted briefings on evolving international threat landscapes. 
