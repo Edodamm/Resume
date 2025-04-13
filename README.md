@@ -1,20 +1,20 @@
 # Intelligence Officer
 
-#### Summary 
+#### Summary: 
 Dynamic and multilingual Intelligence Officer with expertise in cybersecurity and international relations seeking to leverage advanced analytical skills and diverse work experience to contribute effectively to governments and organisations. 
 
-#### Technical Skills
+
+#### Technical Skills:
 
 - Programming Languages: _R, Python, Linux command line._
 - Data Science: _Proficiency in data analysis and visualization._
 - Data Visualisation: _Expertise in Power BI, Tableau, Gephi and GIS._
+
   
 ## Education
-**MA**, Global Security | <a href="https://www.kcl.ac.uk/" target="_blank">King's College London</a>	
-
-**BA**, International Relations | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>	
-
-**BSc**, Cyber Defense | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>
+- **MA**, Global Security | <a href="https://www.kcl.ac.uk/" target="_blank">King's College London</a>	  		
+- **BA**, International Relations | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>			        		
+- **BSc**, Cyber Defense | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>
 
 ## Work experience 
 **Intelligence Officer @ <a href="https://nmc.org.uk" target="_blank">NMC</a> (_Mar 2025 - Present_)**
