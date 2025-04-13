@@ -13,8 +13,7 @@ Dynamic and multilingual Intelligence Officer with expertise in cybersecurity an
   
 ## Education
 - **MA**, Global Security | <a href="https://www.kcl.ac.uk/" target="_blank">King's College London</a>	  		
-
-- **BA**, International Relations | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>			        		
+- **BA**, International Relations | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>			      
 - **BSc**, Cyber Defense | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>
 
 ## Work experience 
