@@ -17,7 +17,11 @@ Dynamic and multilingual Intelligence Officer with expertise in cybersecurity an
 - **BSc**, Cyber Defense | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>
 
 ## Work experience 
-**Intelligence Officer @ <a href="https://nmc.org.uk" target="_blank">NMC</a> (_Mar 2025 - Present_)**
+**Officer – Manston Remote Operations @ <a href="https://www.gov.uk/government/organisations/home-office" target="_blank">Home Office</a> (*May 2026 - Present*)** 
+- Process and assess cases involving individuals who have entered the UK by clandestine means, conducting mandatory identity, biometric, and security checks against Home Office and policing systems.
+- Create and manage case records, analyse domestic and international connections, and initiate safeguarding, detention, and removal referrals in line with statutory and operational requirements.
+
+**Intelligence Officer @ <a href="https://nmc.org.uk" target="_blank">NMC</a> (_Mar 2025 - Apr 2026_)**
 - Manage and assess intelligence related to regulatory concerns, safeguarding, whistleblowing, and risk, ensuring timely sharing.
 - Develop intelligence products and advise on data use, aligned with legislation and operational objectives.
 
