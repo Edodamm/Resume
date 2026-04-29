@@ -17,7 +17,7 @@ Dynamic and multilingual Intelligence Officer with expertise in cybersecurity an
 - **BSc**, Cyber Defense | <a href="https://estacio.br/" target="_blank">Universidade Estácio de Sá</a>
 
 ## Work experience 
-**Officer – Manston Remote Operations @ <a href="https://www.gov.uk/government/organisations/home-office" target="_blank">Home Office</a> (*May 2026 - Present*)** 
+**Officer – Remote Operations @ <a href="https://www.gov.uk/government/organisations/home-office" target="_blank">Home Office</a> (*May 2026 - Present*)** 
 - Process and assess cases involving individuals who have entered the UK by clandestine means, conducting mandatory identity, biometric, and security checks against Home Office and policing systems.
 - Create and manage case records, analyse domestic and international connections, and initiate safeguarding, detention, and removal referrals in line with statutory and operational requirements.
 
